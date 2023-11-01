@@ -1,0 +1,55 @@
+A continuación ingrese 6 secuencias de 6 bases nitrogenadas (A,T,C o G).
+Secuencia de base nitrogenada 1: 
+ATGCGA
+Secuencia de base nitrogenada 2: 
+CAGTGC
+Secuencia de base nitrogenada 3: 
+TTATTT
+Secuencia de base nitrogenada 4: 
+AGACGC
+Secuencia de base nitrogenada 5: 
+GCGTCA
+Secuencia de base nitrogenada 6: 
+TCACTG
+La secuencia ingresada:
+A  T  G  C  G  A
+C  A  G  T  G  C
+T  T  A  T  T  T
+A  G  A  C  G  C
+G  C  G  T  C  A
+T  C  A  C  T  G
+NO ES MUTANTE
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  01:28 min
+Finished at: 2023-10-31T21:37:58-03:00
+------------------------------------------------------------------------
+
+A continuación ingrese 6 secuencias de 6 bases nitrogenadas (A,T,C o G).
+Secuencia de base nitrogenada 1: 
+ATGCGA
+Secuencia de base nitrogenada 2: 
+CAGTGC
+Secuencia de base nitrogenada 3: 
+TTATGT
+Secuencia de base nitrogenada 4: 
+AGAAGG
+Secuencia de base nitrogenada 5: 
+CCCCTA
+Secuencia de base nitrogenada 6: 
+TCACTG
+La secuencia ingresada:
+A  T  G  C  G  A
+C  A  G  T  G  C
+T  T  A  T  G  T
+A  G  A  A  G  G
+C  C  C  C  T  A
+T  C  A  C  T  G
+ES MUTANTE
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  32.146 s
+Finished at: 2023-10-31T21:39:38-03:00
+------------------------------------------------------------------------
